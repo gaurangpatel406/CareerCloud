@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BI8VddFeGPJA0Y74HCAn61bNDwMUjAtOxipvWMz6Io3ZUywuM9Z0RE/JQFx15rsN+9VNTKpsFLuAUW3QVFvQbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaurang P\\source\\repos\\Ass2 new\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaurang P\\.nuget\\packages\\faker.data.core\\1.0.0\\faker.data.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\Gaurang P\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gaurang P\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Gaurang P\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\Gaurang P\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Gaurang P\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
