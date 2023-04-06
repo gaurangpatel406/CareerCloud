@@ -1,0 +1,24 @@
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.deps.json
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.runtimeconfig.json
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.exe
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.deps.json
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BI8VddFeGPJA0Y74HCAn61bNDwMUjAtOxipvWMz6Io3ZUywuM9Z0RE/JQFx15rsN+9VNTKpsFLuAUW3QVFvQbQ==",
+  "dgSpecHash": "yQn00neTfzR2i7gjLF6ZWRwMAmWvegDxfrWa+H0jy+QNUjr7xOz/DMgF+jR28fda5Q4Z60rxNqv4U5YpSpYQgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gaurang P\\source\\repos\\Ass2 new\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+  "projectFilePath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gaurang P\\.nuget\\packages\\faker.data.core\\1.0.0\\faker.data.core.1.0.0.nupkg.sha512",
     "C:\\Users\\Gaurang P\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
