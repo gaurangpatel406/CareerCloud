@@ -17,7 +17,7 @@ namespace CareerCloud.BusinessLogicLayer
             {
                 if (string.IsNullOrEmpty(poco.CompanyWebsite))
                 {
-                    exceptions.Add(new ValidationException(600, "Error! Company website cannot be omitted."));
+                    exceptions.Add(new ValidationException(600, "Error! Company website cannot be empty."));
                 }
                 else
                 {
@@ -41,7 +41,7 @@ namespace CareerCloud.BusinessLogicLayer
 
                 if (string.IsNullOrEmpty(poco.ContactPhone))
                 {
-                    exceptions.Add(new ValidationException(601, "Error! Contact phone cannot be omitted."));
+                    exceptions.Add(new ValidationException(601, "Error! Must correspond to a valid phone number (e.g. 416-555-1234)"));
                 }
                 else
                 {

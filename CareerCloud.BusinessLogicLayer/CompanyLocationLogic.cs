@@ -18,27 +18,27 @@ namespace CareerCloud.BusinessLogicLayer
             {
                 if (string.IsNullOrEmpty(poco.CountryCode))
                 {
-                    exceptions.Add(new ValidationException(500, "Error! Country code cannot be omitted."));
+                    exceptions.Add(new ValidationException(500, "Error! Country code cannot be empty."));
                 }
 
                 if (string.IsNullOrEmpty(poco.Province))
                 {
-                    exceptions.Add(new ValidationException(501, "Error! Province cannot be omitted."));
+                    exceptions.Add(new ValidationException(501, "Error! Province cannot be empty."));
                 }
 
                 if (string.IsNullOrEmpty(poco.Street))
                 {
-                    exceptions.Add(new ValidationException(502, "Error! Street name cannot be omitted."));
+                    exceptions.Add(new ValidationException(502, "Error! Street name cannot be empty."));
                 }
 
                 if (string.IsNullOrEmpty(poco.City))
                 {
-                    exceptions.Add(new ValidationException(503, "Error! City name cannot be omitted."));
+                    exceptions.Add(new ValidationException(503, "Error! City name cannot be empty."));
                 }
 
                 if (string.IsNullOrEmpty(poco.PostalCode))
                 {
-                    exceptions.Add(new ValidationException(504, "Error! Postal code cannot be omitted."));
+                    exceptions.Add(new ValidationException(504, "Error! Postal code cannot be empty."));
                 }
             }
 

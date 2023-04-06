@@ -21,17 +21,17 @@ namespace CareerCloud.BusinessLogicLayer
 			{
 				if (string.IsNullOrEmpty(poco.LanguageID))
 				{
-					exceptions.Add(new ValidationException(1000, "Error! Language id cannot be omitted."));
+					exceptions.Add(new ValidationException(1000, "Error! Language id cannot be empty."));
 				}
 
 				if (string.IsNullOrEmpty(poco.Name))
 				{
-					exceptions.Add(new ValidationException(1001, "Error! Name cannot be omitted."));
+					exceptions.Add(new ValidationException(1001, "Error! Name cannot be empty."));
 				}
 
 				if (string.IsNullOrEmpty(poco.NativeName))
 				{
-					exceptions.Add(new ValidationException(1002, "Error! Native name cannot be omitted."));
+					exceptions.Add(new ValidationException(1002, "Error! Native name cannot be empty."));
 				}
 			}
 

@@ -18,12 +18,12 @@ namespace CareerCloud.BusinessLogicLayer
             {
                 if (string.IsNullOrEmpty(poco.JobName))
                 {
-                    exceptions.Add(new ValidationException(300, "Error! Job name cannot be omitted."));
+                    exceptions.Add(new ValidationException(300, "Error! Job name cannot be empty."));
                 }
 
                 if (string.IsNullOrEmpty(poco.JobDescriptions))
                 {
-                    exceptions.Add(new ValidationException(301, "Error! Job description cannot be omitted."));
+                    exceptions.Add(new ValidationException(301, "Error! Job description cannot be empty."));
                 }
             }
 

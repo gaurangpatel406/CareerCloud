@@ -105,8 +105,3 @@ C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloudCo
 C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.dll
 C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.pdb
 C:\Users\Gaurang P\Downloads\CareerCloud-master\CareerCloud-master\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.genruntimeconfig.cache
-C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.csproj.AssemblyReference.cache
-C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.AssemblyInfoInputs.cache
-C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.AssemblyInfo.cs
-C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloudCore.UnitTests.Assignment3\obj\Debug\netcoreapp3.1\CareerCloudCore.UnitTests.Assignment3.csproj.CoreCompileInputs.cache

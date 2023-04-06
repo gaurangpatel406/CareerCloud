@@ -18,7 +18,7 @@ namespace CareerCloud.BusinessLogicLayer
             {
                 if (poco.Importance < 0)
                 {
-                    exceptions.Add(new ValidationException(400, "Error! Importance cannot be less than zero."));
+                    exceptions.Add(new ValidationException(400, "Error! Importance cannot be less than 0."));
                 }
             }
 

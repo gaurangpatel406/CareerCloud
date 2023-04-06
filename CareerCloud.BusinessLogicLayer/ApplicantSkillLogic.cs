@@ -28,7 +28,7 @@ namespace CareerCloud.BusinessLogicLayer
 
                 if (poco.StartYear < 1900)
                 {
-                    exceptions.Add(new ValidationException(103, $"Error! Start year - {poco.StartYear} cannot come before the 1900s."));
+                    exceptions.Add(new ValidationException(103, $"Error! Start year - {poco.StartYear} cannot come before the 1900."));
                 }
 
                 if (poco.EndYear < poco.StartYear)

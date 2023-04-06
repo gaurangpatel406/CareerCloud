@@ -18,7 +18,7 @@ namespace CareerCloud.BusinessLogicLayer
             {
                 if (string.IsNullOrEmpty(poco.Major))
                 {
-                    exceptions.Add(new ValidationException(200, "Error! Major cannot be omitted and must be at least 2 characters."));
+                    exceptions.Add(new ValidationException(200, "Error! Major must be at least 2 characters."));
                 }
                 else if (poco.Major.Length < 2)
                 {

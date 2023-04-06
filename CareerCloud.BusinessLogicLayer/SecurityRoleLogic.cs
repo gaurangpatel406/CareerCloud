@@ -18,7 +18,7 @@ namespace CareerCloud.BusinessLogicLayer
             {
                 if (string.IsNullOrEmpty(poco.Role))
                 {
-                    exceptions.Add(new ValidationException(800, "Error! Role cannot be omitted."));
+                    exceptions.Add(new ValidationException(800, "Error! Role cannot be empty."));
                 }
             }
 
