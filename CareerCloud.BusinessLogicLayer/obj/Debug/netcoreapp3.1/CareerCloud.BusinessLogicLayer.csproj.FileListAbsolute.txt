@@ -22,3 +22,8 @@ C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLog
 C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfoInputs.cache
 C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfo.cs
 C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache

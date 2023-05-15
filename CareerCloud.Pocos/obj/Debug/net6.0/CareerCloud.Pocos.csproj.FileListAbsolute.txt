@@ -23,3 +23,8 @@ C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.Pocos\obj\D
 C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
 C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
 C:\Users\Gaurang P\source\repos\Assignment 3\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Gaurang P\Source\Repos\gaurangpatel406\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
