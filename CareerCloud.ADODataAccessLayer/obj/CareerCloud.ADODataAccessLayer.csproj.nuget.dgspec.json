@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {}
+    "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+    "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
         "projectName": "CareerCloud.ADODataAccessLayer",
-        "projectPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Gaurang P\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.ADODataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.ADODataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
               },
-              "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
-                "projectPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
               }
             }
           }
@@ -80,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+    "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
         "projectName": "CareerCloud.DataAccessLayer",
-        "projectPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Gaurang P\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -139,18 +139,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+    "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectUniqueName": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
         "projectName": "CareerCloud.Pocos",
-        "projectPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
         "packagesPath": "C:\\Users\\Gaurang P\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\obj\\",
+        "outputPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -208,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -373,11 +373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+      "projectUniqueName": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
       "projectName": "CareerCloud.Pocos",
-      "projectPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+      "projectPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
       "packagesPath": "C:\\Users\\Gaurang P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaurang P\\source\\repos\\Assignment 3\\CareerCloud\\CareerCloud.Pocos\\obj\\",
+      "outputPath": "C:\\Users\\Gaurang P\\Source\\Repos\\gaurangpatel406\\CareerCloud\\CareerCloud.Pocos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -435,7 +435,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
